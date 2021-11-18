@@ -9,20 +9,21 @@ OSS_BUCKET
 
 ### 用法
 
-aliyunoss-stream-cli
-    create
-      -channel your-channel-name
-      -playlist your-playlist-name
-      
-    info
-      -channel your-channel-name
-      
-    list
-      -prefix prefix- (optional)
-    
-    sign
-      -channel your-channel-name
-      -expiry 123 (seconds, default 10 years)
-    
-    del
-      -channel your-channel-name
+                
+    aliyunoss-stream-cli
+        create
+          -channel your-channel-name
+          -playlist your-playlist-name
+
+        info
+          -channel your-channel-name
+
+        list
+          -prefix prefix- (optional)
+
+        sign
+          -channel your-channel-name
+          -expiry 123 (seconds, default 10 years)
+
+        del
+          -channel your-channel-name
