@@ -2,10 +2,10 @@
 阿里云廉价直播服务终端工具
 
 ### 环境变量
-OSS_ENDPOINT
-OSS_AK
-OSS_SK
-OSS_BUCKET
+      OSS_ENDPOINT
+      OSS_AK
+      OSS_SK
+      OSS_BUCKET
 
 ### 用法
 
